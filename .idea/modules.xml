@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hibernate-ORM-Assignment01.iml" filepath="$PROJECT_DIR$/Hibernate-ORM-Assignment01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/many_to_many_relationship.iml" filepath="$PROJECT_DIR$/many_to_many_relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one_to_many_relationship.iml" filepath="$PROJECT_DIR$/one_to_many_relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one_to_one_relationship.iml" filepath="$PROJECT_DIR$/one_to_one_relationship.iml" />
       <module fileurl="file://$PROJECT_DIR$/part_01.iml" filepath="$PROJECT_DIR$/part_01.iml" />
     </modules>
   </component>

@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/part_01/pom.xml" />
+        <option value="$PROJECT_DIR$/one_to_one_relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/one_to_many_relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/many_to_many_relationship/pom.xml" />
       </list>
     </option>
   </component>

@@ -1114,53 +1114,5 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     <user id="303" parent="1" name="root">
       <Host>localhost</Host>
     </user>
-    <table id="304" parent="290" name="Book">
-      <Engine>InnoDB</Engine>
-      <CollationName>utf8mb4_0900_ai_ci</CollationName>
-    </table>
-    <column id="305" parent="304" name="book_id">
-      <DasType>varchar(255)|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>1</Position>
-    </column>
-    <column id="306" parent="304" name="author_name">
-      <DasType>varchar(255)|0s</DasType>
-      <Position>2</Position>
-    </column>
-    <column id="307" parent="304" name="isbn">
-      <DasType>varchar(255)|0s</DasType>
-      <Position>3</Position>
-    </column>
-    <column id="308" parent="304" name="language">
-      <DasType>varchar(255)|0s</DasType>
-      <Position>4</Position>
-    </column>
-    <column id="309" parent="304" name="publication_year">
-      <DasType>int|0s</DasType>
-      <Position>5</Position>
-    </column>
-    <column id="310" parent="304" name="publisher">
-      <DasType>varchar(255)|0s</DasType>
-      <Position>6</Position>
-    </column>
-    <column id="311" parent="304" name="title">
-      <DasType>varchar(255)|0s</DasType>
-      <Position>7</Position>
-    </column>
-    <column id="312" parent="304" name="total_copies">
-      <DasType>int|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>8</Position>
-    </column>
-    <index id="313" parent="304" name="PRIMARY">
-      <ColNames>book_id</ColNames>
-      <Type>btree</Type>
-      <Unique>1</Unique>
-    </index>
-    <key id="314" parent="304" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <Primary>1</Primary>
-      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
-    </key>
   </database-model>
 </dataSource>
