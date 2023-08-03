@@ -7,11 +7,11 @@
     <!--    adding database driver-->
     <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
     <!--    adding connection url-->
-    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_01</property>
+    <property name="hibernate.connection.url">your data base url type here</property>
     <!--    adding user_name -->
-    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.username">your user name type here</property>
     <!--    adding password -->
-    <property name="hibernate.connection.password">1234</property>
+    <property name="hibernate.connection.password">your password type here</property>
     <!--      configures the Hibernate dialect for the MySQL database-->
     <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
     <!--      configures to show the sql queries -->
